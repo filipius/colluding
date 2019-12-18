@@ -33,7 +33,7 @@ The file AnalysisConfiguration.xml defines the configuration for the simulation.
 
 And the results should be visible in the current directory. One may optionally repeat this for other tests besides "Extremecolluding".
 
-However, this is likely to fail, because there are copious dependencies required for these scripts to run. Please follow to the following section.
+However, this is likely to fail, because there are copious dependencies required for these scripts to run. Please see the following section.
 
 # Docker container
 To manage the execution environment, I prepared a Docker Container where all the dependencies are ready and in place for the previous commands to succeed. You may create the docker container and make it run by putting the Dockerfile in an empty directory and then running the following commands from there:
