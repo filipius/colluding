@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="PoolT4.java|WrongNumberOfClientsException.java|matrix/|matrix/AgainstVoteTie.java" kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/jfreechart-1.0.10/lib/jcommon-1.0.13.jar"/>
+	<classpathentry kind="lib" path="lib/jfreechart-1.0.10/lib/jfreechart-1.0.10.jar"/>
+	<classpathentry kind="lib" path="lib/colt/lib/colt.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

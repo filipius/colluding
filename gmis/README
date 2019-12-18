@@ -1,0 +1,16 @@
+
+A GRASP for computing approximate solutions to the
+the maximum independent set problem.
+
+See reference: M.G.C. Resende, T.A. Feo, S.H. Smith, "FORTRAN
+subroutines for approximate solution of the maximum independent
+set problem using GRASP," AT&T Labs Research, Murray Hill, NJ, 1997.
+
+The following files are in the distribution:
+
+Makefile: makefile
+driver.f: driver for gmis.f
+gmis.f  : subroutines for optimization
+gngrf.f : random graph generator
+
+The is also some test data in subdirectory data.

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item key="filters_last_used" value="filter_imports;"/>
+	<item key="org.eclipse.jdt.ui.lastextjar" value="/Volumes/MobileUsers/filipius/filipius/research/artigos/2008/DISC2009/code/BIC - malicious nodes/lib/jfreechart-1.0.10/lib"/>
+	<section name="AddGetterSetterDialog">
+		<item key="SortOrdering" value="false"/>
+		<item key="RemoveFinal" value="false"/>
+	</section>
+	<section name="RenameInformationPopup">
+	</section>
+	<section name="JavaElementSearchActions">
+	</section>
+	<section name="BuildPathsPropertyPage">
+		<item key="pageIndex" value="2"/>
+	</section>
+	<section name="org.eclipse.jdt.internal.ui.text.QuickOutline">
+		<item key="org.eclipse.jdt.internal.ui.text.JavaOutlineInformationControlDIALOG_USE_PERSISTED_BOUNDS" value="false"/>
+		<item key="GoIntoTopLevelTypeAction.isChecked" value="false"/>
+	</section>
+	<section name="org.eclipse.ltk.ui.refactoring.settings">
+	</section>
+	<section name="SourceActionDialog.methods">
+		<item key="Comments" value="false"/>
+		<item key="FinalModifier" value="false"/>
+		<item key="VisibilityModifier" value="1"/>
+		<item key="SynchronizedModifier" value="false"/>
+	</section>
+	<section name="completion_proposal_size">
+	</section>
+</section>

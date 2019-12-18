@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet type="text/xsl" href="convert.xsl"?>
+
+<xmlconfigfile>
+    <configurations>
+        <configuration id="1">
+            <nodes>
+                <number>1000</number>
+                <number>10000</number>
+            </nodes>
+            <pools>
+                <factor>1</factor>
+                <factor>3</factor>
+                <factor>10</factor>
+                <factor>25</factor>
+                <factor>50</factor>
+                <factor>100</factor>
+            </pools>
+            <algorithms>
+                <algorithm algid="5" color="red" show="1">HO</algorithm>
+                <algorithm algid="8" color="cyan" show="1">AV1</algorithm>
+                <algorithm algid="9" color="grey7" show="1">AV2</algorithm>
+            </algorithms>
+            <plotsheaderfile>header.txt</plotsheaderfile>
+            <plotsawkfile>bargraph.awk</plotsawkfile>
+        </configuration>
+
+        <configuration id="2">
+            <nodes>
+                <number>100</number>
+            </nodes>
+            <pools>
+                <factor>1</factor>
+            </pools>
+            <algorithms>
+                <algorithm algid="5" color="red" show="1">HO</algorithm>
+                <algorithm algid="8" color="cyan" show="1">AV1</algorithm>
+                <algorithm algid="9" color="grey7" show="1">AV2</algorithm>
+            </algorithms>
+            <plotsheaderfile>header.txt</plotsheaderfile>
+            <plotsawkfile>bargraph.awk</plotsawkfile>
+        </configuration>
+
+        <configuration id="3">
+            <nodes>
+                <number>1000</number>
+            </nodes>
+            <pools>
+                <factor>1</factor>
+                <factor>3</factor>
+                <factor>10</factor>
+                <factor>25</factor>
+                <factor>50</factor>
+                <factor>100</factor>
+            </pools>
+            <algorithms>
+                <algorithm algid="2" color="black" show="0">Defeats</algorithm>
+                <algorithm algid="3" color="dark_green" show="1">BFS</algorithm>
+                <algorithm algid="4" color="yellow" show="1">PT</algorithm>
+                <algorithm algid="5" color="red" show="1">HO</algorithm>
+                <algorithm algid="7" color="dark_blue" show="1">Kmeans</algorithm>
+                <algorithm algid="8" color="cyan" show="1">AV1</algorithm>
+                <algorithm algid="9" color="grey7" show="1">AV2</algorithm>
+            </algorithms>
+            <plotsheaderfile>header.txt</plotsheaderfile>
+            <plotsawkfile>bargraph.awk</plotsawkfile>
+            <!--
+            <filteralgs>
+                <deletealg>2</deletealg>
+                <deletealg>9</deletealg>
+            </filteralgs> -->
+        </configuration>
+        
+        <configuration id="4">
+            <nodes>
+                <number>1000</number>
+            </nodes>
+            <pools>
+                <factor>1</factor>
+                <factor>3</factor>
+                <factor>10</factor>
+                <factor>25</factor>
+                <factor>50</factor>
+                <factor>100</factor>
+            </pools>
+            <algorithms>
+                <algorithm algid="3" color="dark_green" show="1">BFS</algorithm>
+                <algorithm algid="4" color="yellow" show="1">PT</algorithm>
+                <algorithm algid="5" color="red" show="1">HO</algorithm>
+                <algorithm algid="7" color="dark_blue" show="1">Kmeans</algorithm>
+                <algorithm algid="8" color="cyan" show="1">AV1</algorithm>
+                <algorithm algid="9" color="grey7" show="1">AV2</algorithm>
+            </algorithms>
+            <plotsheaderfile>header.txt</plotsheaderfile>
+            <plotsawkfile>bargraph.awk</plotsawkfile>
+        </configuration>
+        
+        <configuration id="5">
+            <nodes>
+                <number>1000</number>
+            </nodes>
+            <pools>
+                <factor>1</factor>
+                <factor>3</factor>
+                <factor>10</factor>
+                <factor>25</factor>
+                <factor>50</factor>
+                <factor>100</factor>
+            </pools>
+            <algorithms>
+                <algorithm algid="4" color="yellow">PT</algorithm>
+            </algorithms>
+            <plotsheaderfile>header.txt</plotsheaderfile>
+            <plotsawkfile>bargraph.awk</plotsawkfile>
+        </configuration>
+
+        <configuration id="6">
+            <nodes>
+                <number>10000</number>
+            </nodes>
+            <pools>
+                <factor>10</factor>
+            </pools>
+            <algorithms>
+                <algorithm algid="5" color="red" show="1">HO</algorithm>
+                <algorithm algid="8" color="cyan" show="1">AV1</algorithm>
+                <algorithm algid="9" color="grey7" show="1">AV2</algorithm>
+            </algorithms>
+            <plotsheaderfile>header.txt</plotsheaderfile>
+            <plotsawkfile>bargraph.awk</plotsawkfile>
+        </configuration>
+
+        <configuration id="7">
+            <nodes>
+                <number>100000</number>
+            </nodes>
+            <pools>
+                <factor>10</factor>
+            </pools>
+            <algorithms>
+                <algorithm algid="5" color="red" show="1">HO</algorithm>
+                <algorithm algid="8" color="cyan" show="1">AV1</algorithm>
+                <algorithm algid="9" color="grey7" show="1">AV2</algorithm>
+            </algorithms>
+            <plotsheaderfile>header.txt</plotsheaderfile>
+            <plotsawkfile>bargraph.awk</plotsawkfile>
+        </configuration>
+
+        <configuration id="8">
+            <nodes>
+                <number>10000</number>
+                <number>20000</number>
+                <number>30000</number>
+            </nodes>
+            <pools>
+                <factor>10</factor>
+            </pools>
+            <algorithms>
+                <algorithm algid="5" color="red" show="1">HO</algorithm>
+                <algorithm algid="8" color="cyan" show="1">AV1</algorithm>
+                <algorithm algid="9" color="grey7" show="1">AV2</algorithm>
+            </algorithms>
+            <plotsheaderfile>header.txt</plotsheaderfile>
+            <plotsawkfile>bargraph.awk</plotsawkfile>
+        </configuration>
+        
+        <configuration id="9">
+            <nodes>
+                <number>1000</number>
+            </nodes>
+            <pools>
+                <factor>1</factor>
+                <factor>3</factor>
+                <factor>10</factor>
+                <factor>25</factor>
+                <factor>50</factor>
+                <factor>100</factor>
+            </pools>
+            <algorithms>
+                <algorithm algid="3" color="dark_green" show="0">BFS</algorithm>
+                <algorithm algid="4" color="yellow" show="0">PT</algorithm>
+                <algorithm algid="5" color="red" show="1">HO</algorithm>
+                <algorithm algid="7" color="dark_blue" show="0">Kmeans</algorithm>
+                <algorithm algid="8" color="cyan" show="1">AV1</algorithm>
+                <algorithm algid="9" color="grey7" show="1">AV2</algorithm>
+            </algorithms>
+            <plotsheaderfile>header2.txt</plotsheaderfile>
+            <plotsawkfile>bargraph.awk</plotsawkfile>
+        </configuration>
+
+        <configuration id="10">
+            <nodes>
+                <number>1000</number>
+            </nodes>
+            <pools>
+                <factor>10</factor>
+            </pools>
+            <algorithms>
+                <algorithm algid="5" color="red" show="1">HO</algorithm>
+                <algorithm algid="6" color="blue" show="1">HO</algorithm>
+            </algorithms>
+            <plotsheaderfile>header.txt</plotsheaderfile>
+            <plotsawkfile>bargraph.awk</plotsawkfile>
+        </configuration>
+
+        <configuration id="11">
+            <nodes>
+                <number>100</number>
+            </nodes>
+            <pools>
+                <factor>1</factor>
+                <factor>3</factor>
+                <factor>10</factor>
+                <factor>25</factor>
+                <factor>50</factor>
+                <factor>100</factor>
+            </pools>
+            <algorithms>
+                <algorithm algid="2" color="black" show="0">Defeats</algorithm>
+                <algorithm algid="3" color="dark_green" show="1">BFS</algorithm>
+                <algorithm algid="4" color="yellow" show="1">PT</algorithm>
+                <algorithm algid="5" color="red" show="1">HO</algorithm>
+                <algorithm algid="6" color="red" show="1">Gmis</algorithm>
+                <algorithm algid="7" color="dark_blue" show="1">Kmeans</algorithm>
+                <algorithm algid="8" color="cyan" show="1">AV1</algorithm>
+                <algorithm algid="9" color="grey7" show="1">AV2</algorithm>
+            </algorithms>
+            <plotsheaderfile>header.txt</plotsheaderfile>
+            <plotsawkfile>bargraph.awk</plotsawkfile>
+        </configuration>
+	
+        <configuration id="12">
+            <nodes>
+                <number>100</number>
+            </nodes>
+            <pools>
+                <factor>1</factor>
+                <factor>50</factor>
+                <factor>100</factor>
+            </pools>
+            <algorithms>
+                <algorithm algid="2" color="black" show="0">Defeats</algorithm>
+                <algorithm algid="7" color="dark_blue" show="1">Kmeans</algorithm>
+                <algorithm algid="8" color="cyan" show="1">AV1</algorithm>
+            </algorithms>
+            <plotsheaderfile>header.txt</plotsheaderfile>
+            <plotsawkfile>bargraph.awk</plotsawkfile>
+        </configuration>
+    </configurations>
+
+    <runs>
+        <run runid="1">
+            <configuration>3</configuration>
+            <averageruns>30</averageruns>
+            <nodeconfigfile>ConfigFiles/Base-Colluding.txt</nodeconfigfile>
+            <averagesfile>../results/results-basecolluding/results-avg-Base-Colluding.txt</averagesfile>
+            <stdevsfile>../results/results-basecolluding/results-stdev-Base-Colluding.txt</stdevsfile>
+        </run>
+        <run runid="2">
+            <configuration>3</configuration>
+            <averageruns>30</averageruns>
+            <nodeconfigfile>ConfigFiles/Extreme-Colluding.txt</nodeconfigfile>
+            <averagesfile>../results/results-Extremecolluding/results-avg-Extreme-Colluding.txt</averagesfile>
+            <stdevsfile>../results/results-Extremecolluding/results-stdev-Extreme-Colluding.txt</stdevsfile>
+        </run>
+        <run runid="3">
+            <configuration>3</configuration>
+            <averageruns>30</averageruns>
+            <nodeconfigfile>ConfigFiles/unreliableMaliciousConfig.txt</nodeconfigfile>
+            <averagesfile>../results/results-unreliableColluding/results-avg-unreliableMaliciousConfig.txt</averagesfile>
+            <stdevsfile>../results/results-unreliableColluding/results-stdev-unreliableMaliciousConfig.txt</stdevsfile>
+        </run>
+        <run runid="4">
+            <configuration>3</configuration>
+            <averageruns>30</averageruns>
+            <nodeconfigfile>ConfigFiles/MISResistant-Colluding.txt</nodeconfigfile>
+            <averagesfile>../results/results-MISResistantcolluding/results-avg-MISResistant-Colluding.txt</averagesfile>
+            <stdevsfile>../results/results-MISResistantcolluding/results-stdev-MISResistant-Colluding.txt</stdevsfile>
+        </run>
+        <run runid="5">
+            <configuration>9</configuration>
+            <averageruns>30</averageruns>
+            <nodeconfigfile>ConfigFiles/Base-SingleAttackColludinga.txt</nodeconfigfile>
+            <averagesfile>../results/results-SingleAttackcolluding/results-avg-Base-SingleAttackColludinga.txt</averagesfile>
+            <stdevsfile>../results/results-SingleAttackcolluding/results-stdev-Base-SingleAttackColludinga.txt</stdevsfile>
+        </run>
+        <run runid="6">
+            <configuration>8</configuration>
+            <averageruns>3</averageruns>
+            <nodeconfigfile>ConfigFiles/Extreme-Colluding.txt</nodeconfigfile>
+            <averagesfile>../results/results-Extremecolluding-large/results-avg-Extreme-Colluding.txt</averagesfile>
+            <stdevsfile>../results/results-Extremecolluding-large/results-stdev-Extreme-Colluding.txt</stdevsfile>
+        </run>
+        
+        <!-- from this point, tests not in the paper -->
+        <run runid="7">
+            <configuration>9</configuration>
+            <averageruns>1</averageruns>
+            <nodeconfigfile>ConfigFiles/Base-SingleAttackColludinga.txt</nodeconfigfile>
+            <averagesfile>../results/results-SingleAttackcolluding/results-avg-Base-SingleAttackColludinga.txt</averagesfile>
+            <stdevsfile>../results/results-SingleAttackcolluding/results-stdev-Base-SingleAttackColludinga.txt</stdevsfile>
+        </run>
+
+        <run runid="8">
+            <configuration>10</configuration>
+            <averageruns>1</averageruns>
+            <nodeconfigfile>ConfigFiles/Extreme-Colluding.txt</nodeconfigfile>
+            <averagesfile>../results/results-Extremecolluding/results-avg-Extreme-Colluding.txt</averagesfile>
+            <stdevsfile>../results/results-Extremecolluding/results-stdev-Extreme-Colluding.txt</stdevsfile>
+        </run>
+
+        <run runid="9">
+            <configuration>11</configuration>
+            <averageruns>2</averageruns>
+            <nodeconfigfile>ConfigFiles/Base-Colluding.txt</nodeconfigfile>
+            <averagesfile>../results/results-basecolluding/results-avg-Base-Colluding.txt</averagesfile>
+            <stdevsfile>../results/results-basecolluding/results-stdev-Base-Colluding.txt</stdevsfile>
+        </run>
+
+        <run runid="10">
+            <configuration>12</configuration>
+            <averageruns>2</averageruns>
+            <nodeconfigfile>ConfigFiles/Extreme-Colluding.txt</nodeconfigfile>
+            <averagesfile>../results/results-Extremecolluding/results-avg-Extreme-Colluding.txt</averagesfile>
+            <stdevsfile>../results/results-Extremecolluding/results-stdev-Extreme-Colluding.txt</stdevsfile>
+        </run>
+
+    </runs>
+</xmlconfigfile>

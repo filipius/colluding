@@ -1,0 +1,13 @@
+ 1 2 3 1 1 1 1
+3 4 2 0 X X 1
+5 6 7 0 X X 1
+4 5 7 1 1 0 1
+7 0 6 X 1 0 1
+votes against of node 1 (honest) --> 2 3
+votes against of node 2 (dishonest) --> 1 3 4 6
+votes against of node 3 (dishonest) --> 1 2 4 6
+votes against of node 4 (dishonest) --> 2 3 5
+votes against of node 5 (honest) --> 4
+votes against of node 6 (honest) --> 2 3
+votes against of node 7 (honest) -->
+votes against of node 0 (honest) -->

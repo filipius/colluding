@@ -1,0 +1,17 @@
+=replace-patters
+#=cluster;Defeats;BFS;PT;HO;k-means;AV1
+#=patterns
+colors=replace-colors
+#colors=black,dark_green,yellow,red,dark_blue,cyan,grey
+#colors=black,yellow,red,light_green,grey7,magenta,dark_blue
+#colors=black,grey1,grey2,grey3,grey4,grey5,grey6,grey7
+=table
+yformat=replace-me
+#max=100
+font=Helvetica
+legendx=5100
+legendy=2600
+xlabel=Average pools per node
+ylabel=replace-me
+# stretch it out in y direction
+extraops=set size 0.65,0.75

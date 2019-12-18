@@ -1,0 +1,1 @@
+java -Xms128m -Xmx1024m -cp ../BIC\ -\ malicious\ nodes/bin/:../BIC\ -\ malicious\ nodes/lib/jfreechart-1.0.10/lib/jcommon-1.0.13.jar:../BIC\ -\ malicious\ nodes/lib/jfreechart-1.0.10/lib/jfreechart-1.0.10.jar:../BIC\ -\ malicious\ nodes/lib/colt/lib/colt.jar pools.Simulation $1

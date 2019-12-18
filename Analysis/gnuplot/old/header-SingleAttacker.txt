@@ -1,0 +1,16 @@
+=cluster;BFS;PT;HO;k-means;AV1;AV2
+#=patterns
+colors=dark_green,yellow,red,dark_blue,cyan,grey
+#colors=yellow,red,light_green,grey7,magenta,dark_blue
+#colors=black,grey2,grey3,grey4,grey5,grey6,grey7
+=table
+yformat=replace-me
+#max=100
+legendx=5100
+legendy=2600
+xlabel=Pools per client
+ylabel=replace-me
+# stretch it out in y direction
+extraops=set size 0.65,0.75
+
+# 1 2 3 4 5 6 7
