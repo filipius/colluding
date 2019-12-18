@@ -1,0 +1,508 @@
+%!PS-Adobe-2.0 EPSF-2.0
+%%Title: 
+%%Creator: fig2dev Version 3.2 Patchlevel 4
+%%CreationDate: Tue May 18 10:57:01 2010
+%%For: filipius@filipius2.dei.uc.pt (Filipe Araujo)
+%%BoundingBox: 0 0 279 159
+%%Magnification: 1.0000
+%%EndComments
+/$F2psDict 200 dict def
+$F2psDict begin
+$F2psDict /mtrx matrix put
+/col-1 {0 setgray} bind def
+/col0 {0.000 0.000 0.000 srgb} bind def
+/col1 {0.000 0.000 1.000 srgb} bind def
+/col2 {0.000 1.000 0.000 srgb} bind def
+/col3 {0.000 1.000 1.000 srgb} bind def
+/col4 {1.000 0.000 0.000 srgb} bind def
+/col5 {1.000 0.000 1.000 srgb} bind def
+/col6 {1.000 1.000 0.000 srgb} bind def
+/col7 {1.000 1.000 1.000 srgb} bind def
+/col8 {0.000 0.000 0.560 srgb} bind def
+/col9 {0.000 0.000 0.690 srgb} bind def
+/col10 {0.000 0.000 0.820 srgb} bind def
+/col11 {0.530 0.810 1.000 srgb} bind def
+/col12 {0.000 0.560 0.000 srgb} bind def
+/col13 {0.000 0.690 0.000 srgb} bind def
+/col14 {0.000 0.820 0.000 srgb} bind def
+/col15 {0.000 0.560 0.560 srgb} bind def
+/col16 {0.000 0.690 0.690 srgb} bind def
+/col17 {0.000 0.820 0.820 srgb} bind def
+/col18 {0.560 0.000 0.000 srgb} bind def
+/col19 {0.690 0.000 0.000 srgb} bind def
+/col20 {0.820 0.000 0.000 srgb} bind def
+/col21 {0.560 0.000 0.560 srgb} bind def
+/col22 {0.690 0.000 0.690 srgb} bind def
+/col23 {0.820 0.000 0.820 srgb} bind def
+/col24 {0.500 0.190 0.000 srgb} bind def
+/col25 {0.630 0.250 0.000 srgb} bind def
+/col26 {0.750 0.380 0.000 srgb} bind def
+/col27 {1.000 0.500 0.500 srgb} bind def
+/col28 {1.000 0.630 0.630 srgb} bind def
+/col29 {1.000 0.750 0.750 srgb} bind def
+/col30 {1.000 0.880 0.880 srgb} bind def
+/col31 {1.000 0.840 0.000 srgb} bind def
+/col32 {0.000 0.000 0.000 srgb} bind def
+/col33 {0.664 0.664 0.996 srgb} bind def
+/col34 {0.000 0.664 0.000 srgb} bind def
+/col35 {0.465 0.996 0.000 srgb} bind def
+/col36 {0.996 0.996 0.000 srgb} bind def
+/col37 {0.996 0.000 0.000 srgb} bind def
+/col38 {0.863 0.000 0.996 srgb} bind def
+/col39 {0.000 0.000 0.996 srgb} bind def
+/col40 {0.000 0.996 0.996 srgb} bind def
+/col41 {0.863 0.863 0.863 srgb} bind def
+/col42 {0.398 0.398 0.996 srgb} bind def
+/col43 {0.133 0.133 0.133 srgb} bind def
+/col44 {0.266 0.266 0.266 srgb} bind def
+/col45 {0.398 0.398 0.398 srgb} bind def
+/col46 {0.531 0.531 0.531 srgb} bind def
+/col47 {0.664 0.664 0.664 srgb} bind def
+/col48 {0.797 0.797 0.797 srgb} bind def
+/col49 {0.930 0.930 0.930 srgb} bind def
+
+end
+save
+newpath 0 159 moveto 0 0 lineto 279 0 lineto 279 159 lineto closepath clip newpath
+-80.3 289.0 translate
+1 -1 scale
+
+/cp {closepath} bind def
+/ef {eofill} bind def
+/gr {grestore} bind def
+/gs {gsave} bind def
+/sa {save} bind def
+/rs {restore} bind def
+/l {lineto} bind def
+/m {moveto} bind def
+/rm {rmoveto} bind def
+/n {newpath} bind def
+/s {stroke} bind def
+/sh {show} bind def
+/slc {setlinecap} bind def
+/slj {setlinejoin} bind def
+/slw {setlinewidth} bind def
+/srgb {setrgbcolor} bind def
+/rot {rotate} bind def
+/sc {scale} bind def
+/sd {setdash} bind def
+/ff {findfont} bind def
+/sf {setfont} bind def
+/scf {scalefont} bind def
+/sw {stringwidth} bind def
+/tr {translate} bind def
+/tnt {dup dup currentrgbcolor
+  4 -2 roll dup 1 exch sub 3 -1 roll mul add
+  4 -2 roll dup 1 exch sub 3 -1 roll mul add
+  4 -2 roll dup 1 exch sub 3 -1 roll mul add srgb}
+  bind def
+/shd {dup dup currentrgbcolor 4 -2 roll mul 4 -2 roll mul
+  4 -2 roll mul srgb} bind def
+/reencdict 12 dict def /ReEncode { reencdict begin
+/newcodesandnames exch def /newfontname exch def /basefontname exch def
+/basefontdict basefontname findfont def /newfont basefontdict maxlength dict def
+basefontdict { exch dup /FID ne { dup /Encoding eq
+{ exch dup length array copy newfont 3 1 roll put }
+{ exch newfont 3 1 roll put } ifelse } { pop pop } ifelse } forall
+newfont /FontName newfontname put newcodesandnames aload pop
+128 1 255 { newfont /Encoding get exch /.notdef put } for
+newcodesandnames length 2 idiv { newfont /Encoding get 3 1 roll put } repeat
+newfontname newfont definefont pop end } def
+/isovec [
+8#055 /minus 8#200 /grave 8#201 /acute 8#202 /circumflex 8#203 /tilde
+8#204 /macron 8#205 /breve 8#206 /dotaccent 8#207 /dieresis
+8#210 /ring 8#211 /cedilla 8#212 /hungarumlaut 8#213 /ogonek 8#214 /caron
+8#220 /dotlessi 8#230 /oe 8#231 /OE
+8#240 /space 8#241 /exclamdown 8#242 /cent 8#243 /sterling
+8#244 /currency 8#245 /yen 8#246 /brokenbar 8#247 /section 8#250 /dieresis
+8#251 /copyright 8#252 /ordfeminine 8#253 /guillemotleft 8#254 /logicalnot
+8#255 /hyphen 8#256 /registered 8#257 /macron 8#260 /degree 8#261 /plusminus
+8#262 /twosuperior 8#263 /threesuperior 8#264 /acute 8#265 /mu 8#266 /paragraph
+8#267 /periodcentered 8#270 /cedilla 8#271 /onesuperior 8#272 /ordmasculine
+8#273 /guillemotright 8#274 /onequarter 8#275 /onehalf
+8#276 /threequarters 8#277 /questiondown 8#300 /Agrave 8#301 /Aacute
+8#302 /Acircumflex 8#303 /Atilde 8#304 /Adieresis 8#305 /Aring
+8#306 /AE 8#307 /Ccedilla 8#310 /Egrave 8#311 /Eacute
+8#312 /Ecircumflex 8#313 /Edieresis 8#314 /Igrave 8#315 /Iacute
+8#316 /Icircumflex 8#317 /Idieresis 8#320 /Eth 8#321 /Ntilde 8#322 /Ograve
+8#323 /Oacute 8#324 /Ocircumflex 8#325 /Otilde 8#326 /Odieresis 8#327 /multiply
+8#330 /Oslash 8#331 /Ugrave 8#332 /Uacute 8#333 /Ucircumflex
+8#334 /Udieresis 8#335 /Yacute 8#336 /Thorn 8#337 /germandbls 8#340 /agrave
+8#341 /aacute 8#342 /acircumflex 8#343 /atilde 8#344 /adieresis 8#345 /aring
+8#346 /ae 8#347 /ccedilla 8#350 /egrave 8#351 /eacute
+8#352 /ecircumflex 8#353 /edieresis 8#354 /igrave 8#355 /iacute
+8#356 /icircumflex 8#357 /idieresis 8#360 /eth 8#361 /ntilde 8#362 /ograve
+8#363 /oacute 8#364 /ocircumflex 8#365 /otilde 8#366 /odieresis 8#367 /divide
+8#370 /oslash 8#371 /ugrave 8#372 /uacute 8#373 /ucircumflex
+8#374 /udieresis 8#375 /yacute 8#376 /thorn 8#377 /ydieresis] def
+/Helvetica /Helvetica-iso isovec ReEncode
+/$F2psBegin {$F2psDict begin /$F2psEnteredState save def} def
+/$F2psEnd {$F2psEnteredState restore end} def
+
+$F2psBegin
+10 setmiterlimit
+0 slj 0 slc
+ 0.06000 0.06000 sc
+%
+% Fig objects follow
+%
+% 
+% here starts figure with depth 98
+% Polyline
+7.500 slw
+n 2112 3020 m
+ 2187 3020 l gs col-1 s gr 
+% Polyline
+1 slc
+ [15 60] 60 sd
+n 2112 3790 m
+ 4911 3790 l gs col0 s gr  [] 0 sd
+% Polyline
+0 slc
+n 2112 3790 m
+ 2187 3790 l gs col-1 s gr 
+% Polyline
+1 slc
+ [15 60] 60 sd
+n 2112 4175 m
+ 4911 4175 l gs col0 s gr  [] 0 sd
+% Polyline
+0 slc
+n 4911 3790 m
+ 4836 3790 l gs col-1 s gr 
+% Polyline
+n 2112 2250 m 2112 4175 l 4911 4175 l 4911 2250 l
+ 2112 2250 l  cp gs col-1 s gr 
+% Polyline
+1 slc
+ [15 60] 60 sd
+n 2112 3405 m
+ 4911 3405 l gs col0 s gr  [] 0 sd
+% Polyline
+0 slc
+n 2112 3405 m
+ 2187 3405 l gs col-1 s gr 
+% Polyline
+n 4911 3405 m
+ 4836 3405 l gs col-1 s gr 
+% Polyline
+1 slc
+ [15 60] 60 sd
+n 2112 3020 m
+ 4911 3020 l gs col0 s gr  [] 0 sd
+% Polyline
+0 slc
+n 4911 4175 m
+ 4836 4175 l gs col-1 s gr 
+% Polyline
+n 4911 3020 m
+ 4836 3020 l gs col-1 s gr 
+% Polyline
+1 slc
+ [15 60] 60 sd
+n 2112 2635 m
+ 4911 2635 l gs col0 s gr  [] 0 sd
+% Polyline
+0 slc
+n 2112 2635 m
+ 2187 2635 l gs col-1 s gr 
+% Polyline
+n 4911 2635 m
+ 4836 2635 l gs col-1 s gr 
+% Polyline
+1 slc
+ [15 60] 60 sd
+n 2112 2250 m
+ 4911 2250 l gs col0 s gr  [] 0 sd
+% Polyline
+0 slc
+n 2112 2250 m
+ 2187 2250 l gs col-1 s gr 
+% Polyline
+n 4911 2250 m
+ 4836 2250 l gs col-1 s gr 
+% Polyline
+n 2418 4175 m
+ 2418 4100 l gs col-1 s gr 
+% Polyline
+n 2418 2250 m
+ 2418 2325 l gs col-1 s gr 
+% Polyline
+n 2855 4175 m
+ 2855 4100 l gs col-1 s gr 
+% Polyline
+n 2855 2250 m
+ 2855 2325 l gs col-1 s gr 
+% Polyline
+n 3293 4175 m
+ 3293 4100 l gs col-1 s gr 
+% Polyline
+n 3293 2250 m
+ 3293 2325 l gs col-1 s gr 
+% Polyline
+n 3730 4175 m
+ 3730 4100 l gs col-1 s gr 
+% Polyline
+n 3730 2250 m
+ 3730 2325 l gs col-1 s gr 
+% Polyline
+n 4168 4175 m
+ 4168 4100 l gs col-1 s gr 
+% Polyline
+n 4168 2250 m
+ 4168 2325 l gs col-1 s gr 
+% Polyline
+n 4605 4175 m
+ 4605 4100 l gs col-1 s gr 
+% Polyline
+n 4605 2250 m
+ 4605 2325 l gs col-1 s gr 
+% Polyline
+n 2112 2250 m 2112 4175 l 4911 4175 l 4911 2250 l
+ 2112 2250 l  cp gs col-1 s gr 
+% Polyline
+n 2112 2250 m 2112 2250 l 2140 2250 l 2169 2250 l 2197 2250 l 2225 2250 l
+ 2253 2250 l 2282 2250 l 2310 2250 l 2338 2250 l 2366 2250 l
+ 2395 2250 l 2423 2250 l 2451 2250 l 2480 2250 l 2508 2250 l
+ 2536 2250 l 2564 2250 l 2593 2250 l 2621 2250 l 2649 2250 l
+ 2677 2250 l 2706 2250 l 2734 2250 l 2762 2250 l 2791 2250 l
+ 2819 2250 l 2847 2250 l 2875 2250 l 2904 2250 l 2932 2250 l
+ 2960 2250 l 2988 2250 l 3017 2250 l 3045 2250 l 3073 2250 l
+ 3102 2250 l 3130 2250 l 3158 2250 l 3186 2250 l 3215 2250 l
+ 3243 2250 l 3271 2250 l 3299 2250 l 3328 2250 l 3356 2250 l
+ 3384 2250 l 3413 2250 l 3441 2250 l 3469 2250 l 3497 2250 l
+ 3526 2250 l 3554 2250 l 3582 2250 l 3610 2250 l 3639 2250 l
+ 3667 2250 l 3695 2250 l 3724 2250 l 3752 2250 l 3780 2250 l
+ 3808 2250 l 3837 2250 l 3865 2250 l 3893 2250 l 3921 2250 l
+ 3950 2250 l 3978 2250 l 4006 2250 l 4035 2250 l 4063 2250 l
+ 4091 2250 l 4119 2250 l 4148 2250 l 4176 2250 l 4204 2250 l
+ 4232 2250 l 4261 2250 l 4289 2250 l 4317 2250 l 4346 2250 l
+ 4374 2250 l 4402 2250 l 4430 2250 l 4459 2250 l 4487 2250 l
+ 4515 2250 l 4543 2250 l 4572 2250 l 4600 2250 l 4628 2250 l
+ 4657 2250 l 4685 2250 l 4713 2250 l 4741 2250 l 4770 2250 l
+ 4798 2250 l 4826 2250 l 4854 2250 l 4883 2250 l
+ 4911 2250 l gs col-1 s gr 
+% Polyline
+n 2112 4175 m
+ 2187 4175 l gs col-1 s gr 
+% here ends figure;
+% 
+% here starts figure with depth 96
+% Polyline
+7.500 slw
+n 2681 2250 m 2681 4132 l 2739 4132 l 2739 2250 l
+ 2681 2250 l  cp gs col34 1.00 shd ef gr gs col-1 s gr 
+% Polyline
+n 3118 2250 m 3118 4120 l 3176 4120 l 3176 2250 l
+ 3118 2250 l  cp gs col34 1.00 shd ef gr gs col-1 s gr 
+% Polyline
+n 3555 2250 m 3555 4123 l 3614 4123 l 3614 2250 l
+ 3555 2250 l  cp gs col34 1.00 shd ef gr gs col-1 s gr 
+% Polyline
+n 3993 2250 m 3993 4123 l 4051 4123 l 4051 2250 l
+ 3993 2250 l  cp gs col34 1.00 shd ef gr gs col-1 s gr 
+% Polyline
+n 4430 2250 m 4430 4123 l 4488 4123 l 4488 2250 l
+ 4430 2250 l  cp gs col34 1.00 shd ef gr gs col-1 s gr 
+% Polyline
+n 2243 2250 m 2243 4167 l 2302 4167 l 2302 2250 l
+ 2243 2250 l  cp gs col34 1.00 shd ef gr gs col-1 s gr 
+% here ends figure;
+% 
+% here starts figure with depth 94
+% Polyline
+7.500 slw
+n 2739 2250 m 2739 4048 l 2797 4048 l 2797 2250 l
+ 2739 2250 l  cp gs col36 1.00 shd ef gr gs col-1 s gr 
+% Polyline
+n 3176 2250 m 3176 4095 l 3235 4095 l 3235 2250 l
+ 3176 2250 l  cp gs col36 1.00 shd ef gr gs col-1 s gr 
+% Polyline
+n 3614 2250 m 3614 4086 l 3672 4086 l 3672 2250 l
+ 3614 2250 l  cp gs col36 1.00 shd ef gr gs col-1 s gr 
+% Polyline
+n 4051 2250 m 4051 4060 l 4109 4060 l 4109 2250 l
+ 4051 2250 l  cp gs col36 1.00 shd ef gr gs col-1 s gr 
+% Polyline
+n 4488 2250 m 4488 4119 l 4547 4119 l 4547 2250 l
+ 4488 2250 l  cp gs col36 1.00 shd ef gr gs col-1 s gr 
+% Polyline
+n 2302 2250 m 2302 3221 l 2360 3221 l 2360 2250 l
+ 2302 2250 l  cp gs col36 1.00 shd ef gr gs col-1 s gr 
+% here ends figure;
+% 
+% here starts figure with depth 92
+% Polyline
+7.500 slw
+n 4109 2250 m 4109 4098 l 4168 4098 l 4168 2250 l
+ 4109 2250 l  cp gs col37 1.00 shd ef gr gs col-1 s gr 
+% Polyline
+n 2360 2250 m 2360 3973 l 2418 3973 l 2418 2250 l
+ 2360 2250 l  cp gs col37 1.00 shd ef gr gs col-1 s gr 
+% Polyline
+n 2797 2250 m 2797 3903 l 2855 3903 l 2855 2250 l
+ 2797 2250 l  cp gs col37 1.00 shd ef gr gs col-1 s gr 
+% Polyline
+n 3235 2250 m 3235 4045 l 3293 4045 l 3293 2250 l
+ 3235 2250 l  cp gs col37 1.00 shd ef gr gs col-1 s gr 
+% Polyline
+n 3672 2250 m 3672 4085 l 3730 4085 l 3730 2250 l
+ 3672 2250 l  cp gs col37 1.00 shd ef gr gs col-1 s gr 
+% Polyline
+n 4547 2250 m 4547 4105 l 4605 4105 l 4605 2250 l
+ 4547 2250 l  cp gs col37 1.00 shd ef gr gs col-1 s gr 
+% here ends figure;
+% 
+% here starts figure with depth 90
+% Polyline
+7.500 slw
+n 2855 2250 m 2855 3870 l 2914 3870 l 2914 2250 l
+ 2855 2250 l  cp gs col39 1.00 shd ef gr gs col-1 s gr 
+% Polyline
+n 2418 2250 m 2418 3697 l 2476 3697 l 2476 2250 l
+ 2418 2250 l  cp gs col39 1.00 shd ef gr gs col-1 s gr 
+% Polyline
+n 3293 2250 m 3293 4064 l 3351 4064 l 3351 2250 l
+ 3293 2250 l  cp gs col39 1.00 shd ef gr gs col-1 s gr 
+% Polyline
+n 3730 2250 m 3730 4077 l 3788 4077 l 3788 2250 l
+ 3730 2250 l  cp gs col39 1.00 shd ef gr gs col-1 s gr 
+% Polyline
+n 4168 2250 m 4168 4068 l 4226 4068 l 4226 2250 l
+ 4168 2250 l  cp gs col39 1.00 shd ef gr gs col-1 s gr 
+% Polyline
+n 4605 2250 m 4605 4064 l 4663 4064 l 4663 2250 l
+ 4605 2250 l  cp gs col39 1.00 shd ef gr gs col-1 s gr 
+% here ends figure;
+% 
+% here starts figure with depth 88
+% Polyline
+7.500 slw
+n 3351 2250 m 3351 3998 l 3409 3998 l 3409 2250 l
+ 3351 2250 l  cp gs col40 1.00 shd ef gr gs col-1 s gr 
+% Polyline
+n 3788 2250 m 3788 4059 l 3847 4059 l 3847 2250 l
+ 3788 2250 l  cp gs col40 1.00 shd ef gr gs col-1 s gr 
+% Polyline
+n 4226 2250 m 4226 4080 l 4284 4080 l 4284 2250 l
+ 4226 2250 l  cp gs col40 1.00 shd ef gr gs col-1 s gr 
+% Polyline
+n 2476 2250 m 2476 3825 l 2535 3825 l 2535 2250 l
+ 2476 2250 l  cp gs col40 1.00 shd ef gr gs col-1 s gr 
+% Polyline
+n 2914 2250 m 2914 3790 l 2972 3790 l 2972 2250 l
+ 2914 2250 l  cp gs col40 1.00 shd ef gr gs col-1 s gr 
+% Polyline
+n 4663 2250 m 4663 4089 l 4721 4089 l 4721 2250 l
+ 4663 2250 l  cp gs col40 1.00 shd ef gr gs col-1 s gr 
+% here ends figure;
+% 
+% here starts figure with depth 86
+% Polyline
+7.500 slw
+n 3409 2250 m 3409 4021 l 3468 4021 l 3468 2250 l
+ 3409 2250 l  cp gs col49 1.00 shd ef gr gs col-1 s gr 
+% Polyline
+n 4284 2250 m 4284 4078 l 4342 4078 l 4342 2250 l
+ 4284 2250 l  cp gs col49 1.00 shd ef gr gs col-1 s gr 
+% Polyline
+n 4721 2250 m 4721 4082 l 4780 4082 l 4780 2250 l
+ 4721 2250 l  cp gs col49 1.00 shd ef gr gs col-1 s gr 
+% Polyline
+n 3847 2250 m 3847 4062 l 3905 4062 l 3905 2250 l
+ 3847 2250 l  cp gs col49 1.00 shd ef gr gs col-1 s gr 
+% Polyline
+n 2535 2250 m 2535 3833 l 2593 3833 l 2593 2250 l
+ 2535 2250 l  cp gs col49 1.00 shd ef gr gs col-1 s gr 
+% Polyline
+n 2972 2250 m 2972 3851 l 3030 3851 l 3030 2250 l
+ 2972 2250 l  cp gs col49 1.00 shd ef gr gs col-1 s gr 
+% here ends figure;
+% 
+% here starts figure with depth 1
+% Polyline
+7.500 slw
+n 5100 2600 m 5971 2600 l 5971 3601 l 5100 3601 l
+ cp gs col7 1.00 shd ef gr gs col0 s gr 
+/Helvetica-iso ff 150.00 scf sf
+1480 3213 m
+gs 1 -1 sc  90.0 rot (Gain of malicious) dup sw pop 2 div neg 0 rm  col-1 sh gr
+/Helvetica-iso ff 150.00 scf sf
+3511 4774 m
+gs 1 -1 sc (Pools per client) dup sw pop 2 div neg 0 rm  col-1 sh gr
+/Helvetica-iso ff 135.00 scf sf
+5375 2761 m
+gs 1 -1 sc (BFS) col0 sh gr
+/Helvetica-iso ff 135.00 scf sf
+5375 2918 m
+gs 1 -1 sc (PT) col0 sh gr
+/Helvetica-iso ff 135.00 scf sf
+5375 3075 m
+gs 1 -1 sc (HO) col0 sh gr
+/Helvetica-iso ff 135.00 scf sf
+5375 3232 m
+gs 1 -1 sc (Kmeans) col0 sh gr
+/Helvetica-iso ff 135.00 scf sf
+5375 3389 m
+gs 1 -1 sc (AV1) col0 sh gr
+/Helvetica-iso ff 135.00 scf sf
+5375 3546 m
+gs 1 -1 sc (AV2) col0 sh gr
+% Polyline
+n 5150 2766 m 5150 2650 l 5271 2650 l 5271 2766 l
+ 5150 2766 l  cp gs col34 1.00 shd ef gr gs col-1 s gr 
+% Polyline
+n 5150 2923 m 5150 2807 l 5271 2807 l 5271 2923 l
+ 5150 2923 l  cp gs col36 1.00 shd ef gr gs col-1 s gr 
+% Polyline
+n 5150 3080 m 5150 2964 l 5271 2964 l 5271 3080 l
+ 5150 3080 l  cp gs col37 1.00 shd ef gr gs col-1 s gr 
+% Polyline
+n 5150 3237 m 5150 3121 l 5271 3121 l 5271 3237 l
+ 5150 3237 l  cp gs col39 1.00 shd ef gr gs col-1 s gr 
+% Polyline
+n 5150 3394 m 5150 3278 l 5271 3278 l 5271 3394 l
+ 5150 3394 l  cp gs col40 1.00 shd ef gr gs col-1 s gr 
+% Polyline
+n 5150 3551 m 5150 3435 l 5271 3435 l 5271 3551 l
+ 5150 3551 l  cp gs col49 1.00 shd ef gr gs col-1 s gr 
+/Helvetica-iso ff 150.00 scf sf
+2037 4237 m
+gs 1 -1 sc (  -1) dup sw pop neg 0 rm  col-1 sh gr
+/Helvetica-iso ff 150.00 scf sf
+2037 3852 m
+gs 1 -1 sc (  -0.8) dup sw pop neg 0 rm  col-1 sh gr
+/Helvetica-iso ff 150.00 scf sf
+2037 3467 m
+gs 1 -1 sc (  -0.6) dup sw pop neg 0 rm  col-1 sh gr
+/Helvetica-iso ff 150.00 scf sf
+2037 3082 m
+gs 1 -1 sc (  -0.4) dup sw pop neg 0 rm  col-1 sh gr
+/Helvetica-iso ff 150.00 scf sf
+2037 2697 m
+gs 1 -1 sc (  -0.2) dup sw pop neg 0 rm  col-1 sh gr
+/Helvetica-iso ff 150.00 scf sf
+2037 2312 m
+gs 1 -1 sc (  0) dup sw pop neg 0 rm  col-1 sh gr
+/Helvetica-iso ff 150.00 scf sf
+2449 4250 m
+gs 1 -1 sc  90.0 rot (3) dup sw pop neg 0 rm  col-1 sh gr
+/Helvetica-iso ff 150.00 scf sf
+2886 4250 m
+gs 1 -1 sc  90.0 rot (9) dup sw pop neg 0 rm  col-1 sh gr
+/Helvetica-iso ff 150.00 scf sf
+3324 4250 m
+gs 1 -1 sc  90.0 rot (30) dup sw pop neg 0 rm  col-1 sh gr
+/Helvetica-iso ff 150.00 scf sf
+3761 4250 m
+gs 1 -1 sc  90.0 rot (75) dup sw pop neg 0 rm  col-1 sh gr
+/Helvetica-iso ff 150.00 scf sf
+4199 4250 m
+gs 1 -1 sc  90.0 rot (150) dup sw pop neg 0 rm  col-1 sh gr
+/Helvetica-iso ff 150.00 scf sf
+4636 4250 m
+gs 1 -1 sc  90.0 rot (300) dup sw pop neg 0 rm  col-1 sh gr
+% here ends figure;
+$F2psEnd
+rs
+showpage

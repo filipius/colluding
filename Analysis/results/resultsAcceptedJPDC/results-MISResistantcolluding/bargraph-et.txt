@@ -1,0 +1,23 @@
+=cluster BFS PT HO Kmeans AV1 AV2 
+#=cluster;Defeats;BFS;PT;HO;k-means;AV1
+#=patterns
+colors=dark_green,yellow,red,dark_blue,cyan,grey7
+#colors=black,dark_green,yellow,red,dark_blue,cyan,grey
+#colors=black,yellow,red,light_green,grey7,magenta,dark_blue
+#colors=black,grey1,grey2,grey3,grey4,grey5,grey6,grey7
+=table
+yformat=%g
+#max=100
+font=Helvetica
+legendx=5100
+legendy=2600
+xlabel=Pools per client
+ylabel=Execution time (s)
+# stretch it out in y direction
+extraops=set size 0.65,0.75
+3 6.247667 0.091333 0.867333 0.924000 0.119333 0.136333 
+9 4.920333 0.134667 0.914000 0.831333 0.137333 0.149333 
+30 4.799667 0.272333 0.972667 0.854000 0.168333 0.185667 
+75 4.754333 0.547333 1.033667 0.856000 0.232333 0.267333 
+150 4.993000 1.012667 1.209000 0.887667 0.338333 0.397333 
+300 5.205000 1.977667 1.328667 1.156667 0.552000 0.661667 

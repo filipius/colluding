@@ -1,0 +1,23 @@
+=cluster BFS PT HO Kmeans AV1 AV2 
+#=cluster;Defeats;BFS;PT;HO;k-means;AV1
+#=patterns
+colors=dark_green,yellow,red,dark_blue,cyan,grey7
+#colors=black,dark_green,yellow,red,dark_blue,cyan,grey
+#colors=black,yellow,red,light_green,grey7,magenta,dark_blue
+#colors=black,grey1,grey2,grey3,grey4,grey5,grey6,grey7
+=table
+yformat=%g
+#max=100
+font=Helvetica
+legendx=5100
+legendy=2600
+xlabel=Pools per client
+ylabel=Gain of malicious
+# stretch it out in y direction
+extraops=set size 0.65,0.75
+3 -0.984333 -0.502500 -0.881000 -0.799167 -0.819000 -0.819833 
+9 -0.485722 -0.697722 -0.608333 -0.678333 -0.569944 -0.585778 
+30 -0.478500 -0.565817 -0.484200 -0.530783 -0.479483 -0.477633 
+75 -0.484240 -0.503140 -0.479207 -0.495047 -0.480573 -0.480713 
+150 -0.482583 -0.482330 -0.480980 -0.483377 -0.482400 -0.481977 
+300 -0.482428 -0.481165 -0.482282 -0.480525 -0.480957 -0.482828 
