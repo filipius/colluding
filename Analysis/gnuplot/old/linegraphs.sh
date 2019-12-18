@@ -1,4 +1,4 @@
-#! /bin/sh
+#! /bin/bash
 
 file='../results/results-Extremecolluding-large/results-avg-Extreme-Colluding.txt'
 cat $file | grep -A3 "positive" | tail -n 3 | awk -f linegraph.awk -v HOWMANY=3 DIVIDE=1 > lixo.txt

@@ -1,4 +1,4 @@
-#! /bin/sh 
+#! /bin/bash 
 
 if [ $# -ne 2 ]; then
 	echo "Wrong arguments. It should be"

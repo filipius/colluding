@@ -1,4 +1,4 @@
-#! /bin/sh
+#! /bin/bash
 
 if [ $# -lt 3 -o $# -gt 5 ]; then
 	echo "Wrong arguments. It should be"

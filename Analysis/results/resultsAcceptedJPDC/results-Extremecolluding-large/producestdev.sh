@@ -1,4 +1,4 @@
-#! /bin/sh
+#! /bin/bash
 
 #false positives
 cat results-Extreme-Colluding.txt | grep -A3 positive | grep 20000 > only30fp-20000.txt
